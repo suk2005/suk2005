@@ -60,3 +60,13 @@ I'm Sumit Kambli, a passionate BSc IT Graduate from India 🇮🇳
 Connect with me on coding platforms:
 
 - 🟠 LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-orange)](https://leetcode.com/kambli_sumit)
+
+- ## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=suk2005&theme=darkhub)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=suk2005&show_icons=true&theme=tokyonight)
+
+
