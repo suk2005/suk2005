@@ -54,3 +54,9 @@ I'm Sumit Kambli, a passionate BSc IT Graduate from India 🇮🇳
 ## 🔗 Connect With Me
 - LinkedIn: www.linkedin.com/in/sumit-kambli-a15155295
 - GitHub: https://github.com/suk2005
+
+- ## 💻 Coding Profiles
+
+Connect with me on coding platforms:
+
+- 🟠 LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-orange)](https://leetcode.com/kambli_sumit)
