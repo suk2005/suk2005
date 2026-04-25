@@ -7,7 +7,7 @@ I'm Sumit Kambli, a passionate BSc IT Graduate from India.
 ## 🚀 About Me
 - 🌱 Currently learning AI & Full Stack Development
 - 💡 Interested in Data Science & Software Development
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/sumit-kambli-a15155295)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sumit-kambli-a15155295)
 
 ---
 
@@ -48,7 +48,7 @@ I'm Sumit Kambli, a passionate BSc IT Graduate from India.
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sumit-kambli-a15155295)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kambli-a15155295)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/suk2005)
 
 - ## 💻 Coding Profiles
