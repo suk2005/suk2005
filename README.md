@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sumit Kambli, a passionate BSc IT Graduate from India 🇮🇳
+I'm Sumit Kambli, a passionate BSc IT Graduate from India.
 
 ---
 
