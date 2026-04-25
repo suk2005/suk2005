@@ -46,11 +46,6 @@ I'm Sumit Kambli, a passionate BSc IT Graduate from India 🇮🇳
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=suk2005&show_icons=true)
-
----
-
 ## 🔗 Connect With Me
 - LinkedIn: www.linkedin.com/in/sumit-kambli-a15155295
 - GitHub: https://github.com/suk2005
@@ -69,4 +64,6 @@ Connect with me on coding platforms:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=suk2005&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suk2005&layout=compact&theme=tokyonight)
 
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
