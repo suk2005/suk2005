@@ -66,4 +66,4 @@ Connect with me on coding platforms:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suk2005&layout=compact&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=suk2005&theme=tokyonight)
