@@ -51,7 +51,7 @@ I'm Sumit Kambli, a passionate BSc IT Graduate from India.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kambli-a15155295)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/suk2005)
 
-- ## 💻 Coding Profiles
+## 💻 Coding Profiles
 
 Connect with me on coding platforms:
 
@@ -71,6 +71,6 @@ Connect with me on coding platforms:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suk2005&color=blue)
 
---
+---
 
 Feel free to explore my repositories and don't hesitate to reach out! 🌟
