@@ -63,13 +63,11 @@ Connect with me on coding platforms:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suk2005&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suk2005&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=suk2005&theme=tokyonight&hide_border=true&v=2)
+![Streak](https://streak-stats.demolab.com/?user=suk2005&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suk2005&color=blue)
 
