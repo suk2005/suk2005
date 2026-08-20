@@ -11,7 +11,7 @@ I'm Sumit Kambli, Welcome to my GitHub profile! 🚀
 
 ---
 
-## 🛠️ Technologies & Tool
+## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-blue)
