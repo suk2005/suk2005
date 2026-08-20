@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm Sumit Kambli, Welcome to my GitHub profile! 🚀
-
 ---
 
 ## 🚀 About Me
